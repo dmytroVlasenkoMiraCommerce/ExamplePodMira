@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ExamplePodMira'
-  s.version          = '0.1.0'
+  s.version          = '0.11'
   s.summary          = 'ExamplePodMira is great'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,5 @@ Mira is developing a very cool application, stay tuned.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  s.dependency 'AFNetworking', '~> 2.3'
+  # s.dependency 'AFNetworking', '~> 2.3'
 end

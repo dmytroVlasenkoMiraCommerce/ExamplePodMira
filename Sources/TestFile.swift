@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+
+public final class TestFile {
+    public init() {}
+    public func createLink() -> String {
+        return "google.com"
+    }
+}
